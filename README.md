@@ -2,7 +2,7 @@
 
 # Hi, I'm Prabhath M. Gunathilaka 👋
 
-### Digital Media Professional | Creative Technologist | Lifelong Learner
+### Video Production Assistant | Video Editor | Podcaster
 
 Digital Media Professional & Creative Technologist passionate about **Digital Marketing, Photography, Drone Videography, Video Production, Post Production & Visual Storytelling**. Exploring emerging technology and creative tools while building practical digital projects.
 
