@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**prabhathgun007/prabhathgun007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Prabhath M. Gunathilaka 👋
 
-Here are some ideas to get you started:
+### Digital Media Professional | Creative Technologist | Lifelong Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Digital Media Professional & Creative Technologist passionate about **Digital Marketing, Photography, Drone Videography, Video Production, Post Production & Visual Storytelling**. Exploring emerging technology and creative tools while building practical digital projects.
+
+> **Learn → Experiment → Build → Improve 🚀**
+
+## 🤝 Connect With Me
+
+📧 **Email:** [Prabhathgun94@gmail.com](mailto:Prabhathgun94@gmail.com)
+
+💼 **LinkedIn:** [Prabhath M. Gunathilaka](https://www.linkedin.com/in/prabhath-m-gunathilaka-323822332/)
+
+📸 **Instagram:** [@prabhath_m_gunathilaka](https://www.instagram.com/prabhath_m_gunathilaka/)
 -->
